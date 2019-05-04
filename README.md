@@ -1,6 +1,7 @@
 # evspi
 e vs. pi - the final calculus
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Fka0A8nZmeA/0.jpg)](https://www.youtube.com/watch?v=Fka0A8nZmeA)
 
 super ultra beta version
 
