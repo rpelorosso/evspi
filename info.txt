@@ -1,0 +1,30 @@
+
+ E vs. Pi  version 1.0
+ ' The Final Calculus ' 
+
+---------------------------------------------------------------------
+ super ultra beta version
+
+ [compile this with LARGE MEMORY MODEL, otherwise it will crash]
+
+ keys
+ ----
+
+ pi: moves ____ left/right cursor keys
+     jumps ____ up cursor key
+     punch ____ INS
+     block ____ DEL
+
+  e: moves ____ F, H
+     jumps ____ T
+     punch ____ Q
+     block ____ A
+
+ --------------------------------------------------------------------
+
+ silencer/darkdesigns [rodrigo pelorosso]
+
+ silencer@minea.com.ar / silencer_ar@hotmail.com
+ spring 2003, bs.as. argentina
+ www.darkdesigns.com.ar
+
